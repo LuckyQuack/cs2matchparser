@@ -1,4 +1,3 @@
-import './App.css';
 import UploadComponent from './Components/uploadMatch';
 
 
